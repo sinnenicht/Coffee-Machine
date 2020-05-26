@@ -25,6 +25,7 @@ Once the program has started, the user will be prompted to select an option: buy
 An option is selected by inputting the text corresponding to the action to take.
 
 **Buy:**
+
 Select this option to buy a coffee. The different drink options and their corresponding numbers will be displayed.
 The user should enter one of the listed integers to select a coffee, i.e. `1`.
 
@@ -32,16 +33,20 @@ If the coffee machine does not have enough resources to make the selected coffee
 Otherwise, the coffee machine will produce the requested coffee and adjust its inventory accordingly.
 
 **Fill:**
+
 Select this option to add more resources to the coffee machine. The user will be prompted to enter how much of each resource should be added.
 These values should be entered as integers, i.e. to add 50 ml of water, input `50`.
 
 **Take:**
+
 Select this option to take all of the money from the coffee machine.
 
 **Remaining:**
+
 Select this option to display the coffee machine's current inventory.
 
 **Exit:**
+
 Select this option to exit the program.
 
 Authors
