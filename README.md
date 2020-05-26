@@ -49,10 +49,12 @@ Select this option to display the coffee machine's current inventory.
 
 Select this option to exit the program.
 
-Authors
+Credits
 -------
 
-* **Kate Jordan** - [sinnenicht](https://github.com/sinnenicht/)
+**Author:** Kate Jordan - [sinnenicht](https://github.com/sinnenicht/)
+
+This program is based on the Coffee Machine project on [Jet Brains Academy](https://hyperskill.org/projects/33?goal=7).
 
 License
 -------
