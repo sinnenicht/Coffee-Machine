@@ -29,7 +29,7 @@ public class CoffeeMachine {
     public static void programRuns(State state) {
         switch (state) {
             case CHOOSING_AN_ACTION:
-                System.out.println("Write action (buy, fill, remaining, exit):");
+                System.out.println("Write action (buy, fill, take, remaining, exit):");
                 String action = scanner.nextLine();
                 switch (action) {
                     case "buy":
